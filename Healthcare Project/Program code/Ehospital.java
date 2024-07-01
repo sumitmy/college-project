@@ -26,7 +26,7 @@ System.out.print("\t\t\t\t\t|                                      -Brought To Y
 System.out.print("\t\t\t\t\t|                                      	     Ritik Chauhan, Sumit Kumar and Pankaj Kumar    |\n");
 System.out.print("\t\t\t\t\t|___________________________________________________________________________________________|\n");
 }
-//Declaring variales to be used
+//Declaring variables to be used
 Scanner scan=new Scanner(System.in);
 String name;
 String address;
@@ -69,7 +69,7 @@ void login()
    System.out.print("\t\t\t\t\t\t\t\t------------------------------\n\n");	
    System.out.print("\t\t\t\t\t\t\t\tEnter the Password: ");
    pass=scan.next();
-   if(pass.equals("deccan"))
+   if(pass.equals("12345"))
 	{
       System.out.print("\n\n\t\t\t\t\t\t\t\tAccess Granted!\n");
       pressAnyKeyToContinue();
@@ -349,7 +349,7 @@ System.out.print("\t\t\t\t\t|                                                   
 System.out.print("\t\t\t\t\t|                                                                                       |\n");
 System.out.print("\t\t\t\t\t|                                                                                       |\n");
 System.out.print("\t\t\t\t\t|                                                                                       |\n");
-System.out.print("\t\t\t\t\t|                                            -Brought To You by Ritik,Sumit and Pankaj  |\n");
+System.out.print("\t\t\t\t\t|                                            -Brought To You by Sumit, Ritik and Pankaj  |\n");
 System.out.print("\t\t\t\t\t|_______________________________________________________________________________________|\n");
 System.out.print("\t\t\t\t\t\n\n\n\n\t\t\t\t\t");
 System.exit(0);
